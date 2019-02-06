@@ -6,7 +6,7 @@ params.reads =
 process printSequences {
  
     input:
-    
+    I am here
  
     output:
     
